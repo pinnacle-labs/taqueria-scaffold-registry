@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Getting Started (LIGO)",
+        "description": "A simple getting started project those new to using Taqueria and LIGO",
+        "repoUrl": "https://github.com/pinnacle-labs/taqueria-getting-started-ligo-scaffold",
+        "homepageUrl": "https://github.com/pinnacle-labs/taqueria-getting-started-ligo-scaffold",
+        "branch": "main",
+        "author": "Pinnacle Labs",
+        "authorUrl": "https://pinnaclelabs.limited"
+    },
+    {
+        "title": "Taco Shop",
+        "description": "A complete Taqueria project with smart contract and web application integated with Taquito",
+        "repoUrl": "https://github.com/pinnacle-labs/taqueria-scaffold-taco-shop",
+        "homepageUrl": "https://github.com/pinnacle-labs/taqueria-scaffold-taco-shop",
+        "branch": "main",
+        "author": "Pinnacle Labs",
+        "authorUri": "https://pinnaclelabs.limited"
+    }
+]
